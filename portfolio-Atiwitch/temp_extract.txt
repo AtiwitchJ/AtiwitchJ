@@ -1,0 +1,176 @@
+--- Page 1 ---
+Atiwtich
+Jitamornpak
+
+
+--- Page 2 ---
+November 5, 2025 –
+June 6, 2026
+Yesr 4
+School of Science
+Applied Statistics and 
+Data Analytics
+
+
+--- Page 3 ---
+BASE SKILLJOB CODE ​AND TOOLS .
+secondary
+primary
+Business Intelligence Analyst, Business Analyst, Data Analyst, Data Scientist
+Python
+SQL
+Pandas Numpy
+Statmodel
+Scikit Learn
+Tensorflow
+Pytorch
+Matplotlib
+Minitab
+Spss
+BI
+Excel
+Jupyter
+MySQL
+javaScript
+Java
+R
+Php
+N8N
+Supabase
+Rstudio
+Languages
+and
+ Package
+Tool
+
+
+--- Page 4 ---
+Expectations .
+Web application
+ใช้ความถนัดด้าน Data และ AI ที่มีอยู่แล้ว ต่อยอด Web Application
+เพื่อสร้างระบบที่ช่วยเพิ่มประสิทธิภาพการทำงานในองค์กร
+Data Engineer
+อยากจะเป็น Full-Stack Data 
+
+
+--- Page 5 ---
+PROJECT 1 . customer-service-ai-chatbot
+
+
+--- Page 6 ---
+PROJECT 2 .
+speech-to-text
+
+
+--- Page 7 ---
+Learning coding languages ​
+and using tools in project .
+Languages
+Frontend
+Frameworks
+Backend Service & 
+Backend Framworks
+AI Agent Frameworks
+Database
+AI & Automation
+container base
+Queue Manager
+Developer
+Platform
+ Package
+JavaScript
+TypeScript
+A
+Node.js
+Supabase
+LangChain
+LlamaIndex
+MongoDB
+Redis
+GitHub
+BullMQ
+RabbitMQ
+Docker
+Nginx
+Ollama
+N8N
+API Gatway
+
+
+--- Page 8 ---
+Languages
+Full-Stack
+Frameworks
+Backend Service & 
+Backend Framworks
+API Gatway
+External API Service
+Agentic AI and Model Context Protocol
+ Package
+Learning more coding languages ​
+and using tools. 
+GO
+Next.js
+Bun(TypeScript)
+Gin(GO)
+Fiber(GO)
+Kong
+Openclew
+Claude Code
+MCP
+UV
+(New Standard python package )
+
+
+--- Page 9 ---
+SOFTSKILL
+การพูดคุยและการนำเสนออย่างเป็นธรรมชาติ
+มารยาทในที่ทำงานและการวางตัว
+ทักษะในการตัดสินใจและนำเสนอแนวทาง
+การทำงานในขอบเขตที่จำกัด
+การวิเคราะห์ระบบและความเสี่ยงของโครงการ
+
+
+--- Page 10 ---
+Next Step in Learning
+Data
+Dev
+AI
+
+
+--- Page 11 ---
+Coding Languages to learn 
+
+
+--- Page 12 ---
+Cloud Computing
+Data Tools to learn
+
+
+--- Page 13 ---
+Front&Back Framework
+Dev Tools to learn
+
+
+--- Page 14 ---
+AI Tools to learn
+
+
+--- Page 15 ---
+Full-Stack Data (ยังขาด Data Engineer)
+Full-Stack Developer (ชอบ Backend เป็นพิเศษ)
+AI Dev/Eng (ศาสใหม่ที่ต้องติดตามการเรียนรู้อย่างต่อเนื้อ)
+JOB SKILL
+
+
+--- Page 16 ---
+MASTER'S DEGREE
+
+
+--- Page 17 ---
+5 พ.ย. 2568 -  6 มิ.ย. 2569
+คณะวิทยาศาสตร์ 
+สาขาสถิติประยุกต์และการวิเคราะห์ข้อมูล
+AI Engineer 
+
+

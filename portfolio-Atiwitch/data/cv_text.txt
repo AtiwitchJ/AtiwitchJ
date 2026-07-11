@@ -1,0 +1,165 @@
+Atiwitch Jitamornpak (Up) 
+
+Github: https://github.com/AtiwitchJ
+Linkedin: https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/
+Bangkok, Thailand Tel: (+66)928586565 E-Mail: jitamornpak.up@gmail.com
+
+
+PROFESSIONAL SUMMARY 
+
+Passionate Data Science and AI enthusiast with a strong foundation in Applied Statistics and Machine Learning. Experienced in developing enterprise-level AI solutions, including RAG-based chatbots and ASR integrations. Committed to leveraging technical expertise in Python, Deep Learning, and Data Analytics to drive data-driven decision-making and innovation within dynamic organizations.
+
+
+TECHNICAL SKILLS
+Core Programming & ScriptingPython (Advanced), SQL, R, Java, JavaScript (JS), VBA, HTML, CSS
+AI & Deep Learning FrameworksLLM Integration, Vector Embeddings, ASR (Speech-to-Text), Machine Learning (Scikit-learn), Deep Learning (TensorFlow/Keras)
+Data Management & DatabasesMySQL, MongoDB, Redis, Supabase, Qdrant (Vector DB)
+Data Analysis & Business Intelligence (BI) ToolsMicrosoft Power BI, Tableau, Excel (Advanced/VBA), SPSS, Minitab, SAS, Looker Studio
+Development & DevOps ToolsDocker, Git/GitHub, Jupyter Notebook, Google Colab, n8n
+Languages & Other ToolsThai (Native), English (Pre-Intermediate, B1), Adobe Creative Cloud
+
+
+EDUCATION
+
+Expected Graduation: Mar 2026 | King Mongkut's Institute of Technology Ladkrabang (KMITL) | Bangkok, Thailand Bachelor of Science in Applied Statistics and Data Analytics
+GPA: 3.06/4.00
+Relevant Coursework: Statistical Analysis, Machine Learning, Data Mining, Time Series Analysis, Database Management, Calculus for Data Science.
+
+2023 – 2024 | Ramkhamhaeng University | Bangkok, Thailand Bachelor of Business Administration in Logistics Management
+Status: Completed fundamental coursework in Supply Chain Management concurrently with full-time STEM studies to gain business domain insights.
+
+
+
+WORK EXPERIENCE
+
+Nov 2025 – Mar 2026 | CP ALL Public Company Limited | AI & Developer (Internship)
+Developing AI-driven solutions to optimize business operations, including the "Latta" service bot and automated script generation tools.
+Integrating Large Language Models (LLMs) and ASR technologies into internal platforms to enhance user experience and accessibility.
+
+Nov 2025 – Mar 2026 | Freelance | Developer (Freelance)
+Spearheading the development of a Unified Omnichannel Chat Platform to streamline customer service operations.
+Integrating APIs from various communication channels (Email, LINE, Facebook) into a centralized system for real-time monitoring and management.
+
+July 2025 – Oct 2025 | School of Science, KMITL | Student Research Assistant (Department of Statistics)
+Assisted Associate Professor in conducting statistical Analysis and data preprocessing for academic research.
+Implemented data cleaning pipelines using Python to handle large datasets, ensuring data integrity for both statistical modeling and model training.
+
+Jan 2025 – Mar 2025 | Freelance |  Statistical Analyst
+Performed advanced statistical Analysis for a Master’s degree thesis using SPSS.
+Provided consultation on research methodology, hypothesis testing, and regression model interpretation.
+
+RESEARCH & TECHNICAL PROJECTS
+
+► PROFESSIONAL EXPERIENCE (ENTERPRISE PROJECTS)◀
+
+Research Assistant AI | High-Competency AI Workforce Development | (PMU-B Grant) & 42 Bangkok
+Role: AI Developer
+The Context: Part of the high-competency AI workforce development program funded by PMU-B.
+The Solution: Developing an intelligent document assistant utilizing RAG and Vector Embeddings to help query and summarize complex research documents efficiently.
+Tech Stack: Next.js, RAG, Vector Embeddings, LLM, SQL, Supabase.
+
+"Latta" – Enterprise AI Service Bot & Knowledge Management System | CP ALL Public Company Limited
+Role: AI Developer & Full-Stack Developer
+The Challenge: Employees faced inefficiencies in accessing Knowledge Management (KM) and IT support, while admins lacked centralized incident monitoring.
+The Solution: Developed "Latta," an AI-powered chatbot using RAG architecture.
+User Side: Enables instant KM retrieval and automated password resets via natural language.
+Admin Side: Built a Real-time Dashboard to monitor chat logs and analyze issue trends.
+Tech Stack: LLM Integration, RAG, Vector Database, Dashboarding Tools.
+
+Automatic Script Generation for Learning  Platform | CP ALL Public Company Limited
+Role: AI Engineer
+The Challenge: Learning  Platform lacked automated transcription, making content searchability and accessibility difficult for users.
+The Solution: Integrated OpenAI Whisper (ASR) models to automatically generate high-accuracy text scripts and captions from video content, significantly enhancing content discoverability.
+Tech Stack: Python, OpenAI Whisper, Automatic Speech Recognition (ASR).
+
+Unified Omnichannel Chat Platform | Mappoint Asia Thailand
+Role: Software Engineer (Freelance)
+The Challenge: The organization struggled with fragmented communication channels (Email, LINE, Facebook), leading to inefficient customer service monitoring.
+The Solution: Developed a Centralized Chat Aggregation System that integrates APIs from Email (SMTP/IMAP), LINE Messaging API, and Facebook Graph API into a single unified dashboard for seamless real-time management.
+Tech Stack: API Integration, Webhooks, Backend Development.
+
+
+Mdscholar - Make Research Accessible to Everyone | Bolt.new Hackathon Project
+Role: Backend Developer 
+The Challenge: Extracting structured knowledge from dense academic PDFs is slow and error-prone, making it difficult for RAG systems to index content effectively.
+The Solution: Built a high-performance microservice architecture to convert PDFs into structured Markdown.
+Architecture: Implemented FastAPI with Celery and Redis for asynchronous task queuing to handle heavy processing loads without blocking APIs.
+AI Integration: Optimized Docling models with CUDA/GPU acceleration to achieve sub-second page processing speeds.
+Tech Stack: Python, FastAPI, Redis, Docker, Supabase, CUDA/GPU.
+
+Integrated Stock Market Analysis with LLM & Quantitative Finance | Personal Research
+Role: AI Researcher & Lead Developer
+The Challenge: Traditional quantitative models only analyze numerical data, failing to capture market sentiment from news or social media, leading to inaccurate predictions during high-volatility periods.
+The Solution: Developed a hybrid system leveraging LLMs to retrieve and analyze real-time news from the internet for sentiment Analysis, integrating these qualitative insights with quantitative models to improve prediction accuracy.
+Tech Stack: Python, LLM APIs, SQL, Web Scraping, Scikit-learn.
+
+Stroke Risk Efficiency Comparisons using ML & Deep Learning | Senior Project
+Role: Data Scientist & Model Architect
+The Challenge: The medical dataset contained complex, high-dimensional raw data with hidden patterns that standard statistical methods could not easily detect.
+The Solution: Executed extensive Data Mining to clean and organize data, then conducted a comparative study between Deep Learning and Machine Learning models to find the most accurate predictor for early diagnosis.
+Tech Stack: Python (TensorFlow/Keras), Minitab, Excel.
+
+Campus Recruitment Classification | Coursework Project
+Role: Machine Learning Engineer
+The Solution: Implemented a Logistic Regression classifier to automate candidate screening based on historical hiring data, improving selection efficiency.
+Tech Stack: Python, Scikit-learn.
+
+
+► DATA  & DEVELOPMENT◀
+
+Gas Store Database & Product Management System
+Role: Full-Stack Developer & Database Architect
+The Challenge: The store relied on manual inventory tracking, leading to data errors and inefficient stock management.
+The Solution: Designed a Relational Database (MySQL) and built a web application with PHP to digitize the entire inventory flow, ensuring real-time data accuracy.
+Tech Stack: HTML, PHP, SQL, MySQL Workbench.
+
+Stock Analysis Automation Tool
+The Challenge: Calculating compound interest and analyzing stock scenarios manually in Excel was repetitive and prone to human error.
+The Solution: Built an automated pipeline using Python (yfinance) to fetch historical market data and import it into Excel. Developed VBA Macros to process this data, calculate compound interest scenarios, and generate automatic visualizations.
+Tech Stack: Python (yfinance), Microsoft Excel, VBA.
+
+NYC Airbnb Market Data Integration and Insight Analysis
+Role: Data Analyst / Data Engineer
+The Challenge: Analyze New York City Airbnb market trends by integrating and managing datasets stored across different file formats (.csv, .tsv, and .xlsx).
+The Solution: Developed a pipeline using Pandas to load, clean (converting price from string to float and review dates to DateTime type), and merge three disparate datasets using listing_id. Calculated key market metrics such as first/last reviewed dates, the count of private rooms, and average price.
+Tech Stack: Python, Pandas, Data Merging (CSV, TSV, XLSX), Data Cleaning, Time Series Data (DateTime), Market Analysis
+
+Customer Job Change Prediction Data Pipeline Optimization
+Role: Data Engineer / Data Analyst
+The Challenge: A large customer dataset caused significant delays in generating predictions from the Machine Learning model, necessitating a more efficient data storage and processing solution.
+The Solution: Developed a Proof-of-Concept for efficient data storage by transforming data types: converting integers to int32, floats to float16, and object columns to smaller category types (both ordered and standard). Also implemented data filtering for students based on their experience and company size.
+Tech Stack: Python, Pandas, Data Typing, Categorical Data, Data Filtering
+Sports Data Hypothesis Testing - Soccer Goals
+Role: Statistical Analyst
+The Challenge: To statistically verify the hypothesis that women's international soccer matches have a higher average number of goals scored than men's, analyzing only FIFA World Cup matches since 2002-01-01.
+The Solution: Cleaned and subsetted match data, confirmed a non-normal distribution, and performed a right-tailed Wilcoxon-Mann-Whitney U non-parametric test at a 10% significance level. The results supported rejecting the null hypothesis.
+Tech Stack: Python, Pandas, SciPy, Pingouin, Statistical Analysis, Hypothesis Testing, Non-parametric Test
+Global Surface Temperature Forecasting
+Role: Statistical Analyst
+The Challenge: Identifying long-term climate trends amidst seasonal noise and short-term fluctuations.
+The Solution: Applied Time Series Analysis (ARIMA) to accurately forecast future global temperature changes.
+Tech Stack: Minitab, Excel.
+
+Factors Affecting Upper Blood Pressure
+Role: Data Analyst
+The Challenge: Determining which health factors (out of many variables) actually have a statistically significant impact on blood pressure.
+The Solution: utilized Multiple Linear Regression in R to isolate variables and validate relationships through hypothesis testing.
+Tech Stack: R Studio, Excel.
+
+► BUSINESS INTELLIGENCE◀
+
+Customer Insight Analyst (Suki Teenoi Case Study)
+Role: Business Intelligence Analyst
+The Challenge: Customer feedback was scattered across various channels, making it difficult to pinpoint specific service pain points.
+The Solution: Consolidated data and created interactive dashboards in Looker Studio to visualize customer sentiment and propose operational improvements.
+Tech Stack: Google Sheets, Looker Studio.
+
+► EXTRACURRICULAR ACTIVITIES & AWARDS◀
+
+2025 | Empowering Thai Businesses for Global Change through AI Workforce Development with 42 Bangkok Platform
+2024 | Top 25 Finalist, J-MAT Award No.32 (Marketing Plan Competition - Data Analyst Role).
+2024 | Participant, Bolt.new World’s Largest Hackathon (LLM Innovation Track).
+2023 | Ranked 13.57/13.57, 42 Bangkok (KMITL Discovery Piscine) - Intensive Coding Bootcamp.
+2023 | Participant, SAS x KMITL Hackathon 2024 (Analytics Simulation Game).
+2022 - 2025 | Team Manager, KMITL Esports Club) - Utilized data analytics to evaluate player performance.
+2021 | Top 8 National Finalist, DBD & Ministry of Commerce Business Idea Competition (Applied Data for Innovation).

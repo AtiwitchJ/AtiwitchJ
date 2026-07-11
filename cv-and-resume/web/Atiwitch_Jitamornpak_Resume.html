@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atiwitch Jitamornpak - Resume</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #f0f0f0;
+            color: #1a1a2e;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+            line-height: 1.5;
+        }
+        
+        .resume {
+            width: 210mm;
+            height: 297mm;
+            margin: 0 auto;
+            background: white;
+            display: grid;
+            grid-template-columns: 35% 65%;
+            overflow: hidden;
+        }
+        
+        /* Left Sidebar */
+        .sidebar {
+            background: #1a1a2e;
+            color: white;
+            padding: 25px 20px;
+        }
+        
+        .profile-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            display: block;
+            border: 3px solid #e94560;
+            object-fit: cover;
+        }
+        
+        .sidebar-section {
+            margin-bottom: 25px;
+        }
+        
+        .sidebar-title {
+            font-size: 12px;
+            font-weight: 700;
+            color: #e94560;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            padding-bottom: 5px;
+            border-bottom: 2px solid #e94560;
+        }
+        
+        .contact-item {
+            font-size: 10px;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            word-break: break-word;
+        }
+        
+        .contact-icon {
+            color: #e94560;
+            font-size: 11px;
+            min-width: 14px;
+        }
+        
+        .contact-item a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        .skill-category {
+            margin-bottom: 15px;
+        }
+        
+        .skill-name {
+            font-size: 10px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 5px;
+        }
+        
+        .skill-items {
+            font-size: 9px;
+            color: #b8b8d1;
+            line-height: 1.6;
+        }
+        
+        .award-item {
+            font-size: 9px;
+            color: #b8b8d1;
+            margin-bottom: 8px;
+            padding-left: 12px;
+            position: relative;
+            line-height: 1.5;
+        }
+        
+        .award-item::before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #e94560;
+        }
+        
+        .award-year {
+            color: #e94560;
+            font-weight: 600;
+        }
+        
+        /* Main Content */
+        .main-content {
+            padding: 30px 25px;
+        }
+        
+        .header {
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #e94560;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin-bottom: 5px;
+            letter-spacing: -0.5px;
+        }
+        
+        .header .nickname {
+            color: #e94560;
+            font-weight: 500;
+        }
+        
+        .header .title {
+            font-size: 14px;
+            color: #535379;
+            font-weight: 500;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        .section-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: #1a1a2e;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-title::before {
+            content: "";
+            width: 4px;
+            height: 18px;
+            background: #e94560;
+            border-radius: 2px;
+        }
+        
+        .summary {
+            font-size: 11px;
+            color: #535379;
+            line-height: 1.7;
+            text-align: justify;
+        }
+        
+        .exp-item {
+            margin-bottom: 18px;
+        }
+        
+        .exp-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 4px;
+        }
+        
+        .exp-title {
+            font-weight: 700;
+            font-size: 12px;
+            color: #1a1a2e;
+        }
+        
+        .exp-date {
+            font-size: 9px;
+            color: #e94560;
+            font-weight: 600;
+            background: #ffeef0;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+        
+        .exp-company {
+            font-size: 10px;
+            color: #535379;
+            font-weight: 500;
+            margin-bottom: 6px;
+        }
+        
+        .exp-desc {
+            font-size: 10px;
+            color: #535379;
+            line-height: 1.6;
+            padding-left: 12px;
+            position: relative;
+            margin-bottom: 3px;
+        }
+        
+        .exp-desc::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #e94560;
+            font-weight: bold;
+        }
+        
+        .proj-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+        
+        .proj-item {
+            background: #f8f8fa;
+            padding: 10px;
+            border-radius: 6px;
+            border-left: 3px solid #e94560;
+        }
+        
+        .proj-name {
+            font-weight: 600;
+            font-size: 10px;
+            color: #1a1a2e;
+            margin-bottom: 3px;
+        }
+        
+        .proj-meta {
+            font-size: 8px;
+            color: #e94560;
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+        
+        .proj-desc {
+            font-size: 9px;
+            color: #535379;
+            line-height: 1.5;
+        }
+        
+        .proj-tech {
+            font-size: 8px;
+            color: #7c7c9e;
+            margin-top: 4px;
+            font-style: italic;
+        }
+        
+        /* Print Button */
+        .print-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: 600;
+            box-shadow: 0 4px 15px rgba(233, 69, 96, 0.3);
+            transition: all 0.3s;
+        }
+        
+        .print-btn:hover {
+            background: #d63d54;
+            transform: translateY(-2px);
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .resume {
+                margin: 0;
+                box-shadow: none;
+            }
+            .print-btn {
+                display: none;
+            }
+        }
+        
+        @media screen {
+            .resume {
+                box-shadow: 0 0 40px rgba(0,0,0,0.15);
+                margin: 20px auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="resume">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <img src="atiwit poto.png" alt="Atiwitch Jitamornpak" class="profile-img">
+            
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Contact</h3>
+                <div class="contact-item">
+                    <span class="contact-icon">📍</span>
+                    <span>Bangkok, Thailand</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">📱</span>
+                    <span>(+66) 92-858-6565</span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">✉️</span>
+                    <a href="mailto:jitamornpak.up@hotmail.com">jitamornpak.up@hotmail.com</a>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">💻</span>
+                    <a href="https://github.com/AtiwitchJ">github.com/AtiwitchJ</a>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-icon">🔗</span>
+                    <a href="https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/">linkedin.com/in/atiwitch-jitamornpak</a>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Technical Skills</h3>
+                <div class="skill-category">
+                    <div class="skill-name">Programming</div>
+                    <div class="skill-items">Python (Advanced), SQL, R, Java, JavaScript, VBA, HTML/CSS</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-name">AI & Deep Learning</div>
+                    <div class="skill-items">LLM Integration, Vector Embeddings, ASR, Scikit-learn, TensorFlow/Keras</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-name">Databases</div>
+                    <div class="skill-items">MySQL, MongoDB, Redis, Supabase, Qdrant (Vector DB)</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-name">Analytics & BI</div>
+                    <div class="skill-items">Power BI, Tableau, Excel/VBA, SPSS, Minitab, SAS, Looker Studio</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-name">DevOps & Tools</div>
+                    <div class="skill-items">Docker, Git/GitHub, Jupyter, Google Colab, FastAPI, N8N</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-name">Languages</div>
+                    <div class="skill-items">Thai (Native), English (Pre-Intermediate B1)</div>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Education</h3>
+                <div style="margin-bottom: 12px;">
+                    <div style="font-size: 10px; font-weight: 600; color: #fff;">KMITL</div>
+                    <div style="font-size: 9px; color: #b8b8d1;">B.Sc. Applied Statistics & Data Analytics</div>
+                    <div style="font-size: 8px; color: #e94560; margin-top: 2px;">GPA: 3.06/4.00 • Expected: Mar 2026</div>
+                </div>
+                <div>
+                    <div style="font-size: 10px; font-weight: 600; color: #fff;">Ramkhamhaeng University</div>
+                    <div style="font-size: 9px; color: #b8b8d1;">BBA Logistics Management</div>
+                    <div style="font-size: 8px; color: #7c7c9e; margin-top: 2px;">2023-2024 (Completed)</div>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Awards</h3>
+                <div class="award-item"><span class="award-year">2025</span> AI Workforce Development with 42 Bangkok</div>
+                <div class="award-item"><span class="award-year">2024</span> Top 25 Finalist, J-MAT Award No.32</div>
+                <div class="award-item"><span class="award-year">2024</span> Bolt.new World's Largest Hackathon</div>
+                <div class="award-item"><span class="award-year">2023</span> 42 Bangkok (Rank 13.57/13.57)</div>
+                <div class="award-item"><span class="award-year">2021</span> Top 8 National Finalist, DBD Competition</div>
+            </div>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="header">
+                <h1>Atiwitch Jitamornpak <span class="nickname">(Up)</span></h1>
+                <p class="title">AI & Developer | Data Scientist</p>
+            </header>
+            
+            <section class="section">
+                <h2 class="section-title">Professional Summary</h2>
+                <p class="summary">Passionate Data Science and AI enthusiast with strong foundation in Applied Statistics and Machine Learning. Experienced in developing enterprise-level AI solutions, including RAG-based chatbots and ASR integrations. Committed to leveraging technical expertise in Python, Deep Learning, and Data Analytics to drive data-driven decision-making and innovation within dynamic organizations.</p>
+            </section>
+            
+            <section class="section">
+                <h2 class="section-title">Work Experience</h2>
+                
+                <div class="exp-item">
+                    <div class="exp-header">
+                        <span class="exp-title">AI & Full Stack Developer</span>
+                        <span class="exp-date">Nov 2025 - Mar 2026</span>
+                    </div>
+                    <div class="exp-company">CP ALL Public Company Limited</div>
+                    <div class="exp-desc">Developed "Latta" AI service bot using RAG architecture for enterprise knowledge management</div>
+                    <div class="exp-desc">Integrated OpenAI Whisper (ASR) for automated video transcription, enhancing content discoverability</div>
+                </div>
+                
+                <div class="exp-item">
+                    <div class="exp-header">
+                        <span class="exp-title">Developer</span>
+                        <span class="exp-date">Nov 2025 - Jan 2026</span>
+                    </div>
+                    <div class="exp-company">Freelance</div>
+                    <div class="exp-desc">Built Unified Omnichannel Chat Platform integrating Email, LINE, Facebook APIs</div>
+                    <div class="exp-desc">Developed centralized dashboard for real-time monitoring and management</div>
+                </div>
+                
+                <div class="exp-item">
+                    <div class="exp-header">
+                        <span class="exp-title">Student Research Assistant</span>
+                        <span class="exp-date">Jul 2025 - Oct 2025</span>
+                    </div>
+                    <div class="exp-company">School of Science, KMITL</div>
+                    <div class="exp-desc">Conducted statistical analysis and data preprocessing for academic research</div>
+                    <div class="exp-desc">Implemented Python data cleaning pipelines for large datasets</div>
+                </div>
+                
+                <div class="exp-item">
+                    <div class="exp-header">
+                        <span class="exp-title">Statistical Analyst</span>
+                        <span class="exp-date">Jan 2025 - Mar 2025</span>
+                    </div>
+                    <div class="exp-company">Freelance</div>
+                    <div class="exp-desc">Performed statistical analysis for Master's thesis using SPSS</div>
+                    <div class="exp-desc">Provided consultation on research methodology and hypothesis testing</div>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2 class="section-title">Featured Projects</h2>
+                <div class="proj-grid">
+                    <div class="proj-item">
+                        <div class="proj-name">Mdscholar</div>
+                        <div class="proj-meta">Backend Developer | Bolt.new Hackathon</div>
+                        <div class="proj-desc">PDF to Markdown converter with FastAPI, Celery, Redis. CUDA/GPU optimization.</div>
+                        <div class="proj-tech">Python, FastAPI, Redis, Docker, CUDA</div>
+                    </div>
+                    
+                    <div class="proj-item">
+                        <div class="proj-name">Stock Market Analysis</div>
+                        <div class="proj-meta">AI Researcher & Lead Developer</div>
+                        <div class="proj-desc">Hybrid sentiment analysis using LLMs integrated with quantitative models.</div>
+                        <div class="proj-tech">Python, LLM APIs, SQL, Web Scraping</div>
+                    </div>
+                    
+                    <div class="proj-item">
+                        <div class="proj-name">Research Assistant AI</div>
+                        <div class="proj-meta">AI Developer | PMU-B Grant & 42 Bangkok</div>
+                        <div class="proj-desc">RAG-based document assistant with Vector Embeddings for research queries.</div>
+                        <div class="proj-tech">Next.js, RAG, Vector DB, LLM, Supabase</div>
+                    </div>
+                    
+                    <div class="proj-item">
+                        <div class="proj-name">Stroke Risk Prediction</div>
+                        <div class="proj-meta">Data Scientist | Senior Project</div>
+                        <div class="proj-desc">Comparative study of Deep Learning vs ML models for early diagnosis.</div>
+                        <div class="proj-tech">TensorFlow/Keras, Minitab, Excel</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <button class="print-btn" onclick="window.print()">
+        🖨️ Print / Save PDF
+    </button>
+</body>
+</html>

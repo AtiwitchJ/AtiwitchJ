@@ -17,10 +17,13 @@ Docker · AWS · Git
 ## Featured Project
 - [portfolio-Atiwitch](https://github.com/AtiwitchJ/portfolio-Atiwitch)
 
+## Organized Folders
+- [portfolio-Atiwitch](./portfolio-Atiwitch)
+- [cv-and-resume](./cv-and-resume)
+
 ## Certifications
 - Introduction to Go Programming Language — BorntoDev (2026)
 - AI Workforce Development with 42 Bangkok Platform — 42 Bangkok (2025)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/)
-
