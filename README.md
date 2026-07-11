@@ -4,10 +4,8 @@ AI Engineer & Full-Stack Data Developer.
 Based in Bangkok, Thailand 🇹🇭.
 Building AI, web, and data tools.
 
-## Featured
-- [portfolio-Atiwitch](./portfolio-Atiwitch)
-- [cv-and-resume](./cv-and-resume)
-- [open-uppu](https://github.com/open-uppu)
+## Open Source
+[open-uppu](https://github.com/open-uppu)
 
 ## Tech Stack
 Python · TypeScript · JavaScript · Go
@@ -17,4 +15,3 @@ Docker · AWS · Git
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/)
-
