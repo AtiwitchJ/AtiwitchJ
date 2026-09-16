@@ -1,96 +1,69 @@
-<div align="center">
+# Atiwitch Jitamornpak (Up)
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=3B0764,7E22CE,A855F7,3B0764&height=220&section=header&text=Atiwitch%20Jitamornpak&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Distributed%20Backend&descSize=17&descAlignY=68" width="100%" alt="Header Banner" />
+**AI Engineer & Full-Stack Data Specialist**  
+Bangkok, Thailand
 
-  <!-- Animated Typing Headline -->
-  <a href="https://github.com/AtiwitchJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=580&lines=Hi+there,+I'm+Atiwitch+(UPUP)+%F0%9F%91%8B;Building+Autonomous+Agentic+Coding+Systems+%F0%9F%A4%96;Architecting+Production-Grade+Voice+AI+Pipelines+%F0%9F%8E%99%EF%B8%8F;High-Performance+Distributed+Systems+in+Go+%E2%9A%A1;Cadet+%40+42+Bangkok+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Social & Info Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:jjitamornpak@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/AtiwitchJ">
-      <img src="https://img.shields.io/badge/Cadet-42%20Bangkok-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Bangkok" />
-    </a>
-    <a href="https://github.com/AtiwitchJ">
-      <img src="https://komarev.com/ghpvc/?username=AtiwitchJ&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atiwitch%20Jitamornpak-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/)
+[![Email](https://img.shields.io/badge/Email-jitamornpak.up%40hotmail.com-blue?style=flat&logo=microsoftoutlook)](mailto:jitamornpak.up@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AtiwitchJ-181717?style=flat&logo=github)](https://github.com/AtiwitchJ)
+[![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-red?style=flat&logo=googlemaps)](https://maps.google.com/?q=Bangkok,Thailand)
 
 ---
 
-### 👨‍💻 About Me
+## 📌 Summary
 
-```yaml
-name: Atiwitch Jitamornpak (UPUP)
-role: AI Engineer & Distributed Systems Developer
-education: 42 Bangkok Cadet | Mahidol University
-passions: [Autonomous Coding Agents, Real-Time Voice AI, High-Performance Gateways]
-current_focus: Building parallel multi-agent orchestrators and production AI pipelines
-location: Bangkok, Thailand (UTC+7)
-```
-
-- 🤖 **Agentic AI & Orchestration**: Architecting autonomous agent workflows, parallel code review systems ([`Moden-Agent`](https://github.com/AtiwitchJ/Moden-Agent)), and Model Context Protocol (MCP) integrations.
-- 🎙️ **Voice AI Systems**: Engineering end-to-end Voice AI architectures with low-latency streaming audio pipelines, STT, and neural TTS synthesis.
-- ⚡ **High-Performance Backends**: Designing robust API gateways ([`NoJect-Gateway`](https://github.com/AtiwitchJ/NoJect-Gateway)), distributed microservices, and transaction engines in **Go** and **TypeScript**.
-- 🔌 **Developer Tooling**: Creator of custom AI plugin extensions integrating multi-model intelligence (Codex, Qwen, Kimi, Hermes, Antigravity) into CLI developer workflows.
+Results-driven **Full-Stack Data & AI Engineer** with proven experience building enterprise AI agents, real-time data streaming pipelines, and LLM / MCP integrations. Passionate about bridging applied statistics, high-performance backends, and autonomous agent orchestration.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💼 Experience & Background
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,py,java,c,cpp,postgres,redis,docker,linux,git,github,vscode,neovim&perline=15&theme=dark" alt="Skills" />
-</div>
+- **AI Engineer & Full-Stack Data** @ **Quality Brain Co., Ltd.** *(Mar 2026 – Aug 2026)*
+  - **Limbic Agent Station**: Built an enterprise orchestration platform managing autonomous AI agents for industrial diagnostics with real-time state sync and pgvector RAG using **Go**, **Python**, **LangChain**, **Redis**, and **Docker**.
+  - **Agent Detect SAGE**: Engineered a 24/7 telemetry monitoring system streaming industrial sensor metrics with rolling SPC control charts via **Apache Kafka**, **FastAPI**, **PostgreSQL**, and LLM correlation.
+  - **SCADA Vision AI**: Implemented visual inspection pipelines auditing physical SCADA status lights and CCTV streams using **LiteLLM**, **FastAPI**, and **ffmpeg**.
+  - **Limbic Data Warehouse**: Centralized multi-tenant operational data warehouse with an Agentic RAG search engine over equipment maintenance documentation.
 
-<br/>
+- **AI & Developer (Internship)** @ **CP ALL Plc.** *(Nov 2025 – Mar 2026)*
+  - **Latta Bot**: Developed an enterprise AI assistant bot indexing corporate SOPs and workflow rules to automate employee support inquiries using **LlamaIndex**, **LangChain**, **Ollama**, and **Python**.
+  - **OpenAI Whisper ASR Integration**: Built an automated speech-to-text processing pipeline to transcribe audio notes and meeting recordings into searchable text.
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Go`, `TypeScript`, `JavaScript`, `Python`, `Java`, `C`, `C++`, `SQL`, `Bash` |
-| **AI & Agents** | Multi-Agent Orchestration, Model Context Protocol (MCP), LLM Tooling, Voice AI (STT/TTS), LangChain |
-| **Backend & Systems** | `Node.js`, `Express`, `FastAPI`, `Gin`, `Fiber`, `RESTful APIs`, `gRPC`, `WebSockets` |
-| **Data & Storage** | `PostgreSQL`, `Redis`, `MongoDB` |
-| **DevOps & Infrastructure** | `Docker`, `Linux`, `Git`, `GitHub Actions`, Microservices & Gateway Architectures |
+- **Full-Stack Developer & Statistical Analyst** @ **Freelance** *(Jan 2025 – Jan 2026)*
+  - Delivered omnichannel chat platform back-office integrations (LINE & Facebook Messenger), automated social media scheduling web apps, and rigorous academic statistical modeling (SPSS, R, Multivariate Regression).
 
 ---
 
-### 🚀 Featured Repositories
+## 🎓 Education
 
-| Project | Description | Stack |
+- **Mahidol University** — *M.Sc. in Information Technology Management* *(Aug 2026 – Present)*
+- **King Mongkut's Institute of Technology Ladkrabang (KMITL)** — *B.Sc. in Applied Statistics and Data Analytics* *(2022 – 2026)* • GPA: 3.11 / 4.00
+- **42 Bangkok** — *Discovery Piscine (Ranked 13.57/13.57)* & *AI Workforce Development Platform*
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Python, Go, TypeScript, JavaScript, SQL, R
+- **AI & Agentic Systems:** LangChain, LlamaIndex, Agentic RAG, Model Context Protocol (MCP), LiteLLM, Scikit-Learn, OpenAI Whisper ASR, Computer Vision
+- **Data Engineering & Streaming:** Apache Kafka, PostgreSQL (pgvector), Redis, Supabase, ETL Pipelines, Statistical Process Control (SPC/SQC)
+- **Frameworks & Backend:** FastAPI, Next.js, React, Node.js, Go (Fiber/Gin), RESTful APIs
+- **DevOps & Tools:** Docker, Linux, Git, GitHub Actions, `uv`
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| 🤖 [**Moden-Agent**](https://github.com/AtiwitchJ/Moden-Agent) | Agentic orchestrator for parallel coding agents — autonomously plans tasks, spawns worker agents, and handles CI fixes, merge conflicts, and code reviews. | `JavaScript` `AI Agents` |
-| 🎙️ [**voice-ai-agent-architecture**](https://github.com/AtiwitchJ/voice-ai-agent-architecture) | Production-grade Voice AI Agent reference platform based on a modular 6-stage pipeline and high-performance infrastructure design. | `TypeScript` `Voice AI` |
-| ⚡ [**NoJect-Gateway**](https://github.com/AtiwitchJ/NoJect-Gateway) | High-performance, low-latency API gateway built from scratch for resilient microservices routing and rate limiting. | `Go` `Systems` |
-| 💳 [**payment-gateway-transaction**](https://github.com/AtiwitchJ/payment-gateway-transaction) | Secure transaction processing engine with strict ACID compliance, idempotency, and fault tolerance. | `Java` `Backend` |
-| 🔌 [**Claude Code AI Plugins**](https://github.com/AtiwitchJ?tab=repositories&q=-plugin-cc) | Ecosystem of CLI plugins enabling multi-agent delegation (Codex, OpenClaw, Qwen, Kimi, Jules, Hermes, Antigravity) inside terminal environments. | `JavaScript` `CLI Tooling` |
+| 🛡️ [**NoJect-Gateway**](https://github.com/AtiwitchJ/NoJect-Gateway) | Agentic AI Security Sentinel & sub-millisecond Go L7 Fast WAF. Protects against prompt injections and jailbreaks with Cognitive LLM-as-a-Judge, automated PII masking, and SHA-256 audit logging (aligned with OWASP Top 10 for LLMs). | `Go` `Fiber` `LiteLLM` `Redis` |
+| 🤖 [**Moden-Agent**](https://github.com/AtiwitchJ/Moden-Agent) | Open-source orchestration platform for supervising parallel AI coding agents operating within isolated Git worktrees, handling live PR review and CI failure feedback loops. | `JavaScript` `Go` `React` `SQLite` |
+| 📈 **qualabinance** | Quantitative finance and backtesting platform leveraging Python and `uv` for high-performance dependency management and algorithmic strategy evaluation. | `Python` `uv` `Quant Finance` |
+| 📊 **Clinical Stroke Risk Modeling (Senior Thesis)** | Predictive healthcare analytics benchmarking 7 ML/DL architectures across 43,000+ patient records with Optuna hyperparameter optimization. | `Python` `Scikit-Learn` `Optuna` |
 
 ---
 
-### 📊 GitHub Activity & Streak
+## 📬 Contact
 
-<div align="center">
-  <a href="https://github.com/AtiwitchJ">
-    <img src="https://streak-stats.demolab.com?user=AtiwitchJ&theme=radical&background=0d1117&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakLabel=a78bfa" alt="GitHub Streak Stats" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with 💜 to match the Crobat aesthetic • Let's build something remarkable together!</sub>
-  <br/><br/>
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=3B0764,7E22CE,A855F7,3B0764&height=120&section=footer" width="100%" alt="Footer Banner" />
-</div>
+- **LinkedIn:** [linkedin.com/in/atiwitch-jitamornpak-b93571323](https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/)
+- **Email:** [jitamornpak.up@hotmail.com](mailto:jitamornpak.up@hotmail.com) / [jjitamornpak@gmail.com](mailto:jjitamornpak@gmail.com)
+- **GitHub:** [@AtiwitchJ](https://github.com/AtiwitchJ)
