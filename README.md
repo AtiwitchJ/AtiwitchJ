@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=3B0764,7E22CE,A855F7,3B0764&height=160&section=header&text=Atiwitch%20Jitamornpak&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Data%20Specialist&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=3B0764,7E22CE,A855F7,3B0764&height=160&section=header&text=Atiwitch%20Jitamornpak&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Data&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/AtiwitchJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Full-Stack+Data+Specialist;Building+Enterprise+AI+Agents+%26+High-Performance+Go;Python+%E2%80%A2+Go+%E2%80%A2+TypeScript+%E2%80%A2+Kafka+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Full-Stack+Data;Building+Enterprise+AI+Agents+%26+High-Performance+Go;Python+%E2%80%A2+Go+%E2%80%A2+TypeScript+%E2%80%A2+Kafka+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
   </a>
 
   <br/><br/>
