@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=2E1065,581C87,7C3AED,C084FC,2E1065&height=170&section=header&text=Atiwitch%20Jitamornpak&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%40%20AXONS%20%7C%20Full-Stack%20Data%20%26%20AI%20Systems&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=2E1065,581C87,7C3AED,C084FC,2E1065&height=170&section=header&text=Atiwitch%20Jitamornpak&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%40%20AXONS%20(COE%20NLP)%20%7C%20Full-Stack%20Data&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/AtiwitchJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=AI+Engineer+%40+AXONS+(CP+Group);Enterprise+AI+Agents+%26+Multi-Agent+Workflows;AgriTech+%26+Supply-Chain+AI+Automation;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Go+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=AI+Engineer+%40+AXONS+(COE+NLP);Standard+MCP+%26+Enterprise+LLM+Tooling;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Go+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -36,7 +36,7 @@
     <td width="50%" valign="top">
       <h4>💼 Experience & Current Role</h4>
       <ul>
-        <li><b>AXONS (CP Group):</b> AI Engineer <i>(Oct 2026 – Present)</i><br/>Architecting enterprise AI agent workflows, intelligent AgriTech & supply-chain automation, and high-performance LLM microservices.</li>
+        <li><b>AXONS (CP Group):</b> AI Engineer — COE NLP <i>(Oct 2026 – Present)</i><br/>Focusing on <b>Standard MCP</b> (Model Context Protocol) integration, LLM developer tooling, and enterprise AI agent foundations.</li>
         <li><b>Quality Brain:</b> AI Engineer & Full-Stack Data <i>(Mar 2026 – Aug 2026)</i><br/>Limbic Agent Station, Kafka telemetry streaming, SCADA Vision AI & pgvector RAG.</li>
         <li><b>CP ALL:</b> AI & Developer Intern <i>(Nov 2025 – Mar 2026)</i><br/>Latta Bot (Enterprise RAG) & Whisper ASR Pipeline.</li>
       </ul>
@@ -59,7 +59,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,go,ts,postgres,kafka,redis,fastapi,nextjs,docker,git,linux&perline=11&theme=dark" alt="Tech Stack" />
   <br/><br/>
-  <code>Python</code> • <code>LangChain / MCP</code> • <code>FastAPI</code> • <code>Go</code> • <code>Apache Kafka</code> • <code>PostgreSQL (pgvector)</code> • <code>Docker</code>
+  <code>Python</code> • <code>Standard MCP / LangChain</code> • <code>FastAPI</code> • <code>Go</code> • <code>Apache Kafka</code> • <code>PostgreSQL (pgvector)</code> • <code>Docker</code>
 </div>
 
 ---
