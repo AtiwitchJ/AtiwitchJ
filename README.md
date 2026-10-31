@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/AtiwitchJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=AI+Engineer+%40+AXONS+(COE+NLP);Standard+MCP+%26+Enterprise+LLM+Tooling;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Go+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=570&lines=AI+Engineer+%40+AXONS+(COE+NLP);Standard+MCP+%26+Enterprise+LLM+Tooling;Enterprise+App+Testing+%26+Pre-Integration;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Go+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -36,7 +36,7 @@
     <td width="50%" valign="top">
       <h4>💼 Experience & Current Role</h4>
       <ul>
-        <li><b>AXONS (CP Group):</b> AI Engineer — COE NLP <i>(Oct 2026 – Present)</i><br/>Focusing on <b>Standard MCP</b> (Model Context Protocol) integration, LLM developer tooling, and enterprise AI agent foundations.</li>
+        <li><b>AXONS (CP Group):</b> AI Engineer — COE NLP <i>(Oct 2026 – Present)</i><br/>Focusing on <b>Standard MCP</b> (Model Context Protocol) integration, enterprise LLM developer tooling, and testing/evaluation of Enterprise Applications prior to system integration.</li>
         <li><b>Quality Brain:</b> AI Engineer & Full-Stack Data <i>(Mar 2026 – Aug 2026)</i><br/>Limbic Agent Station, Kafka telemetry streaming, SCADA Vision AI & pgvector RAG.</li>
         <li><b>CP ALL:</b> AI & Developer Intern <i>(Nov 2025 – Mar 2026)</i><br/>Latta Bot (Enterprise RAG) & Whisper ASR Pipeline.</li>
       </ul>
