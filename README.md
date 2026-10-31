@@ -1,17 +1,20 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=2E1065,581C87,7C3AED,C084FC,2E1065&height=170&section=header&text=Atiwitch%20Jitamornpak&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Data&descSize=17&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1&color_list=2E1065,581C87,7C3AED,C084FC,2E1065&height=170&section=header&text=Atiwitch%20Jitamornpak&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%40%20AXONS%20%7C%20Full-Stack%20Data%20%26%20AI%20Systems&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/AtiwitchJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Full-Stack+Data;Building+Enterprise+AI+Agents+%26+High-Performance+Go;Python+%E2%80%A2+Go+%E2%80%A2+TypeScript+%E2%80%A2+Kafka+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C084FC&center=true&vCenter=true&width=560&lines=AI+Engineer+%40+AXONS+(CP+Group);Enterprise+AI+Agents+%26+Multi-Agent+Workflows;AgriTech+%26+Supply-Chain+AI+Automation;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI+%E2%80%A2+Go+%E2%80%A2+pgvector;M.Sc.+Mahidol+%E2%80%A2+B.Sc.+KMITL+%E2%80%A2+42+Bangkok" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Compact Badges -->
   <p align="center">
+    <a href="https://atiwitch-jitamornpak-resume.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/atiwitch-jitamornpak-b93571323/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Atiwitch%20Jitamornpak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -31,19 +34,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Education & Academics</h4>
+      <h4>💼 Experience & Current Role</h4>
       <ul>
-        <li><b>Mahidol University:</b> M.Sc. in IT Management <i>(2026 – Present)</i></li>
-        <li><b>KMITL:</b> B.Sc. in Applied Statistics & Data Analytics <i>(GPA 3.11)</i></li>
-        <li><b>42 Bangkok:</b> Discovery Piscine Cadet <i>(Ranked 13.57/13.57)</i></li>
+        <li><b>AXONS (CP Group):</b> AI Engineer <i>(Oct 2026 – Present)</i><br/>Architecting enterprise AI agent workflows, intelligent AgriTech & supply-chain automation, and high-performance LLM microservices.</li>
+        <li><b>Quality Brain:</b> AI Engineer & Full-Stack Data <i>(Mar 2026 – Aug 2026)</i><br/>Limbic Agent Station, Kafka telemetry streaming, SCADA Vision AI & pgvector RAG.</li>
+        <li><b>CP ALL:</b> AI & Developer Intern <i>(Nov 2025 – Mar 2026)</i><br/>Latta Bot (Enterprise RAG) & Whisper ASR Pipeline.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 Experience & Focus</h4>
+      <h4>🎓 Education & Academics</h4>
       <ul>
-        <li><b>Quality Brain:</b> Enterprise AI Agent Orchestration, Kafka Telemetry Streaming, SCADA Vision AI & pgvector RAG</li>
-        <li><b>CP ALL:</b> Latta Bot (Enterprise RAG) & Whisper ASR Pipeline</li>
-        <li><b>Core Focus:</b> Agentic Workflows, Real-time Data & High-Performance Go</li>
+        <li><b>Mahidol University:</b> M.Sc. in IT Management <i>(Aug 2026 – Present)</i></li>
+        <li><b>KMITL:</b> B.Sc. in Applied Statistics & Data Analytics <i>(2022 – 2026)</i><br/>Graduated • GPA: 3.11 / 4.00</li>
+        <li><b>42 Bangkok:</b> Discovery Piscine Cadet <i>(Ranked 13.57/13.57)</i> & AI Workforce Development Platform</li>
       </ul>
     </td>
   </tr>
@@ -56,7 +59,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,go,ts,postgres,kafka,redis,fastapi,nextjs,docker,git,linux&perline=11&theme=dark" alt="Tech Stack" />
   <br/><br/>
-  <code>Python</code> • <code>Go</code> • <code>TypeScript</code> • <code>Apache Kafka</code> • <code>PostgreSQL (pgvector)</code> • <code>FastAPI</code> • <code>Docker</code>
+  <code>Python</code> • <code>LangChain / MCP</code> • <code>FastAPI</code> • <code>Go</code> • <code>Apache Kafka</code> • <code>PostgreSQL (pgvector)</code> • <code>Docker</code>
 </div>
 
 ---
@@ -97,12 +100,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/AtiwitchJ/Atiwitch_Jitamornpak_Resume">Portfolio & Executive Deck</a></h4>
-      <p>Bilingual Next.js portfolio application featuring an interactive 16:9 presentation deck & clinical stroke risk ML research (43k+ records).</p>
+      <h4>📊 <a href="https://atiwitch-jitamornpak-resume.vercel.app/" target="_blank">Executive Portfolio & Deck</a></h4>
+      <p>Interactive bilingual Next.js web application with 16:9 executive presentation deck & clinical stroke risk ML research (43k+ records).</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Optuna-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live%20Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
   </tr>
